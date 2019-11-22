@@ -1,3 +1,5 @@
+# shalbrook.github.io
+
 Not much here right now, just a couple R notebooks.
 
 * [ACS Diversity](https://shalbrook.github.io/acs-diversity/) - Brief R script to calculate diversity of an MSA using the ACS API and tidycensus.
