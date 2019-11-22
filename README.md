@@ -1,4 +1,4 @@
-# shalbrook
+# shalbrook.github.io
 
 Not much here right now, just a couple R notebooks.
 
