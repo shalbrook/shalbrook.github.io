@@ -1,5 +1,3 @@
-# shalbrook.github.io
-
 * [ACS Diversity](https://shalbrook.github.io/acs-diversity/) - Brief R script to calculate diversity of an MSA using the ACS API and tidycensus.
 * [Language Maps for Austin Public Health](https://shalbrook.github.io/language-maps-for-aph/) - R code to retrieve language data by census tract for Travis County, Texas, using 2013-2017 5-year ACS estimates. Then it maps those languages alongside Austin Public Health facilities. The goal is to reveal any areas that might be underserved.
   * [Map 1](https://shalbrook.github.io/language-maps-for-aph/map1.html) (Spanish, Chinese, Vietnamese, Other Indo-European, Other Asian, Arabic)
