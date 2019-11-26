@@ -1,4 +1,5 @@
 ## R Notebooks
+All these notebooks are still under development. More of a playground than a portfolio.
 
 ### [ACS Diversity](https://shalbrook.github.io/acs-diversity/)
 Brief R script to calculate diversity of an MSA using the ACS API, tidycensus, and the Simpson's Diversity Index.
