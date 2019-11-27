@@ -5,7 +5,7 @@ All these notebooks are still under active development as I learn stuff and come
 Calculate and rank diversity of MSAs using the ACS API, tidycensus, and the Simpson Diversity Index (or HHI).
 
 ### [Language Maps for Austin Public Health](https://shalbrook.github.io/language-maps-for-aph/)
-Get language data by census tract for Travis County, Texas, using 2013-2017 5-year ACS estimates, then map those languages alongside Austin Public Health facilities. The goal is to reveal any areas that might be underserved. The maps are easiest to read when viewing one language at a time; use the layer button in the top left to toggle language layers on/off. Different colored dots represent different types of APH facilities.
+Get language data by census tract for Travis County, Texas, using 2013-2017 5-year ACS estimates, then map those languages alongside Austin Public Health facilities. The goal is to reveal any areas that might be underserved. The maps are easiest to read when viewing one language at a time; use the layer button in the top left to toggle language layers on/off. The dots' colors represent the type of APH facility.
 * [Map 1](https://shalbrook.github.io/language-maps-for-aph/map1.html) (Spanish, Chinese, Vietnamese, Other Indo-European, Other Asian, Arabic)
 * [Map 2](https://shalbrook.github.io/language-maps-for-aph/map2.html) (French-Haitian, Korean, Arabic, Russian, German, Tagalog, Other)
 
