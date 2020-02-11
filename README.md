@@ -4,6 +4,9 @@ All these notebooks are still under active development as I learn stuff and come
 ### [ACS Diversity](https://shalbrook.github.io/acs-diversity/)
 Calculate and rank diversity of MSAs, counties, and congressional districts using the ACS API, tidycensus, and the Simpson Diversity Index (or HHI).
 
+### [Median Income with IPUMS](https://shalbrook.github.io/median-income-with-ipums/)
+Use IPUMS-USA microdata to calculate weighted median incomes for certain geographic areas.
+
 ### [Language Maps for Austin Public Health](https://shalbrook.github.io/language-maps-for-aph/)
 Get language data by census tract for Travis County, Texas, using 2013-2017 5-year ACS estimates, then map those languages alongside Austin Public Health facilities. The goal is to reveal any areas that might be underserved. The maps are easiest to read when viewing one language at a time; use the layer button in the top left to toggle language layers on/off. The dots' colors represent the type of APH facility.
 * [Map 1](https://shalbrook.github.io/language-maps-for-aph/map1.html) (Spanish, Chinese, Vietnamese, Other Indo-European, Other Asian, Arabic)
