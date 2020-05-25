@@ -1,6 +1,13 @@
 ## R Notebooks
 All these notebooks are still under active development as I learn stuff and come up with more ideas. It's more of a playground than a portfolio.
 
+### COVID-19
+#### [COVID-19 Economic Vulnerability](https://shalbrook.github.io/covid-19-economic-vulnerability/)
+Map Chmura's COVID-19 economic vulnerability index for Texas counties.
+
+#### [COVID-19 Test Analysis](https://shalbrook.github.io/covid-19-test-analysis/)
+Various analysis and visualizations of COVID-19 test data retrieved via the Covid Tracking Project's API.
+
 ### [ACS Diversity](https://shalbrook.github.io/acs-diversity/)
 Calculate and rank diversity of MSAs, counties, and congressional districts using the ACS API, tidycensus, and the Simpson Diversity Index (or HHI).
 
