@@ -1,4 +1,4 @@
-# Projects
+# shalbrook's Projects
 
 ## R Notebooks
 In various stages of development as I learn stuff and come up with more ideas. It's more of a playground than a portfolio.
